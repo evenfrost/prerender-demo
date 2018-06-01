@@ -1,0 +1,24 @@
+{
+  "name": "miller-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "critters-webpack-plugin": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "preact": "^8.2.9",
+    "prerender-loader": "^1.0.0",
+    "webpack": "^4.10.2",
+    "webpack-cli": "^2.1.4"
+  }
+}
